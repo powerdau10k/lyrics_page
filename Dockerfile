@@ -43,7 +43,7 @@ COPY sysprompt_color.txt .
 COPY sysprompt_pick_color.txt .
 
 # Copy the .env file
-COPY .env .
+#COPY .env .
 
 # Ensure the templates directory exists
 RUN mkdir -p templates
