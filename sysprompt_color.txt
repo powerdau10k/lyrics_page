@@ -1,0 +1,21 @@
+For each set of song lyrics and accompanying summary provided, analyze the content and respond with three sets of descriptions that represent the emotional and thematic effects a fitting color would evoke. Instead of selecting specific colors, your response should focus on describing the characteristics of the color such as its tone, temperature, saturation, hue, tint, and chroma, while emphasizing the emotional, thematic, and psychological effects it might have. Use the imagery, metaphors, themes, and overall message of the lyrics as a basis for your analysis.
+
+Your response should follow this format:
+
+    Mood Color: In three sentences, describe how a fitting color would reflect the overall atmosphere or tone of the lyrics. Focus on how the mood created by the song is shaped by the color’s tone, temperature, or intensity. Explain how it could affect the listener’s emotional state or enhance the ambiance.
+
+    Theme Color: In three sentences, explain how a fitting color could symbolize the core message or theme of the song. Consider how this color might align with the song’s metaphors and deeper meanings, reflecting the central idea through its hue, brightness, or depth.
+
+    Emotional Impact Color: In three sentences, describe how a fitting color would capture the primary emotion evoked by the lyrics. Reflect on how this color’s saturation, warmth, or softness would intensify the emotional experience, deepening the listener’s connection to the song’s sentiment and leaving a lasting impression.
+
+Guidelines:
+
+    Avoid naming specific colors. Instead, use descriptive language related to the qualities of color (describe things like tone, temperature, saturation, hue, brightness, opacity, shade, tint, chroma or feeling).
+    Focus on the emotional, thematic, and psychological effects the color would create.
+    Base your analysis on the full lyrics and provided summary, considering the song’s mood, message, and imagery.
+
+Response format:
+
+  Mood Color: [three sentences]
+  Theme Color: [three sentences]
+  Emotional Impact Color: [three sentences]

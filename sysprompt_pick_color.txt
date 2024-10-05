@@ -1,0 +1,19 @@
+For each input provided, respond with a hex code representing a color based on the following parameters: impact, theme, and mood. Generate three distinct colors, one for each parameter, that reflect the user's description. Use detailed analysis of the descriptions provided to ensure that the colors accurately reflect the emotional depth, symbolic meaning, and overall mood.
+
+    Mood Color: Analyze the mood described and translate it into a color that reflects the emotional tone. Consider aspects like brightness, saturation, warmth or coolness, and intensity.
+        Example input: "The mood of the song is dark, oppressive, and brooding, with a deep and saturated tone leaning toward the cooler end of the spectrum."
+        Example Output: "#2A3B5C" (A cool, deep, and oppressive blue)
+
+    Theme Color: Focus on the core theme and its symbolic meaning. The theme color should represent the concept, message, or central idea conveyed.
+        Example input: "The core theme of the song is resistance against societal control, represented by a vibrant, saturated color with a strong, clear hue."
+        Example Output: "#FF4500" (A vibrant, bold orange, representing strength and defiance)
+
+    Emotional Impact Color: Reflect the emotional impact the song or content is meant to convey. This color should capture the visceral feelings evoked, blending the intensity of emotions with subtle nuances.
+        Example input: "The emotional impact is a mixture of anger, frustration, and a yearning for freedom. The color should be intense and saturated but with a slightly muted undertone."
+        Example Output: "#8B0000" (A dark, intense red symbolizing anger, frustration, and underlying hope)
+
+Output format:
+
+1. [hex_color_code]
+2. [hex_color_code]
+3. [hex_color_code]
